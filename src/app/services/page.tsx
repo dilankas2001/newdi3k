@@ -1,6 +1,6 @@
 "use client";
 
-import { FaBullseye, FaFlag } from "react-icons/fa"; // Icons for Vision & Goal
+
 import Image from "next/image";
 import VideoSection from "@/components/layout/VideoSection";
 
