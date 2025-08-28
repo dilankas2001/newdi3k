@@ -131,11 +131,7 @@ const Index = () => {
         <SwiperSlide key={index} className="max-w-2xl">
           <div className="p-10 bg-gray-100 rounded-lg shadow-lg">
             <div className="flex items-center">
-              <img
-                src={testimonial.image}
-                alt={testimonial.name}
-                className="w-16 h-16 border-2 border-orange-500 rounded-full"
-              />
+              
               <div className="ml-4 text-left">
                 <h3 className="text-lg font-bold text-gray-800">{testimonial.name}</h3>
                 <p className="text-sm text-gray-600">{testimonial.role}</p>

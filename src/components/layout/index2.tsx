@@ -10,7 +10,7 @@ const Index2 = () => {
       {/* Contact Section */}
       <section className="px-6 py-20 text-center bg-black md:px-12 lg:px-24">
         <p className="text-xl font-semibold text-orange-500">Get In Touch</p>
-        <h2 className="text-3xl font-bold md:text-4xl">We'd Love to Hear from You!</h2>
+       
 
         {/* Contact Information Box */}
         <div className="max-w-4xl p-8 mx-auto mt-10 bg-white rounded-lg">
